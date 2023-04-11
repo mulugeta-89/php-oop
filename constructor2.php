@@ -15,7 +15,4 @@ class Product {
 $product = new Product(price:90);
 $product->get_all();
 
-
-
-
 ?>

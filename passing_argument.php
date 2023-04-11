@@ -11,5 +11,4 @@ class Product {
 
 $new_product = new Product();
 $new_product->order_me(drink: "scotch");
-
 ?>
