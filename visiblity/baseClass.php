@@ -10,4 +10,7 @@ class Base {
     public function get_dances():string {
         return $this->dances;
     }
+    protected function get_voice():string {
+        return "we are all the same";
+    }
 }
